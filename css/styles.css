@@ -10,22 +10,22 @@ body {
   background-color: #f8f8fc;
 }
 h1.fw-bolder {
-  color: #ff596d;
+  color: #000000;
 }
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #e0f0ff;
+    background-color: #f8f8fc;
 }
 
 .resume-main {
-	background-color: #fffefc;
+	background-color: #f8f8fc;
 }
 .border-info {
   border-color: #000000 !important;
 }
 .bg-warning {
-  background-color: #ff596d !important;
+  background-color: #2E7DEA !important;
 }
 .resume-aside {
 	background-color: #e0f0ff;
